@@ -1,6 +1,6 @@
 import { createApp } from "vue";
 import { basicSetup } from "codemirror";
-import App from "./App.vue";
+import App from "./app.vue";
 import VueCodemirror from "vue-codemirror";
 import "./assets/index.css";
 

@@ -24,7 +24,7 @@ const moves = ref(0);
     <!-- Code Editor -->
     <VueCodemirror />
 
-    <!-- Dialog Display -->
+    <!-- Diagram Display -->
     <div class="col-span-2 flex flex-col items-center border-l pt-10">
       <Diagram
         :node-data-array="nda"
